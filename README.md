@@ -10,5 +10,10 @@ Communicate among different development environment through this.
 ### Again, Are you accessing same data repeatedly OR want to save only for sometime?
 --Ok, cool. Then, why not Redis? Redis (in memory db - cache) faster access
 
+### Challenges
+* Different Routing (Exchanges) - https://www.rabbitmq.com/tutorials/tutorial-four-java.html
+* Security (Routing key)
+
+
 
 
