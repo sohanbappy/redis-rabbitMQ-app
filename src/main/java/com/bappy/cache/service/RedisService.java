@@ -10,6 +10,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
+/*
+redis.del(key) - will delete key from Redis
+redis.flushDB() - will clear Redis-DB data
+ */
 @Service
 public class RedisService {
 
